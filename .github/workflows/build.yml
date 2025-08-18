@@ -13,10 +13,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Get Date for cache key
-        id: get-date
-        run: echo "date=$(date -u +'%Y%m%d')" >> $GITHUB_ENV
-
+      # Caches speed up repeat builds (safe to keep)
       - name: Cache Buildozer global directory
         uses: actions/cache@v4
         with:
@@ -27,21 +24,18 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .buildozer
-          key: ${{ runner.os }}-${{ env.date }}-${{ hashFiles('buildozer.spec') }}
-
-      - name: Set up JDK 11
-        uses: actions/setup-java@v3
-        with:
-          distribution: temurin
-          java-version: 11
-
-      - name: Accept Android SDK licenses
-        run: yes | sdkmanager --licenses || true
+          key: ${{ runner.os }}-${{ github.sha }}-${{ hashFiles('buildozer.spec') }}
 
       - name: Build with Buildozer
         uses: ArtemSBulgakov/buildozer-action@v1
         id: buildozer
+        env:
+          # Point to the JDK that actually exists inside the action's Docker image
+          JAVA_HOME: /usr/lib/jvm/java-17-openjdk-amd64
+          # Non-interactive license acceptance (the action also sets a similar flag)
+          APP_ANDROID_ACCEPT_SDK_LICENSE: "1"
         with:
+          # Verbose output helps diagnose CI issues
           command: buildozer -v android debug --log-level 2
           buildozer_version: stable
 
