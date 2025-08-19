@@ -34,7 +34,7 @@ jobs:
           JAVA_HOME: /usr/lib/jvm/java-17-openjdk-amd64
           APP_ANDROID_ACCEPT_SDK_LICENSE: "1"
         with:
-          command: buildozer -v android debug --log-level 2
+          command: buildozer -v android debug
           buildozer_version: stable
 
       - name: Upload APK artifact
