@@ -1,225 +1,44 @@
-t.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_xxsubinterpreters.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_testinternalcapi.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_codecs_jp.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_codecs_hk.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_random.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_queue.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/resource.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_opcode.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_codecs_cn.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_socket.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_sha1.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_hashlib.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_ssl.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_csv.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_testmultiphase.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/select.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/termios.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_xxtestfuzz.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_lsprof.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/mmap.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/xxlimited_35.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/syslog.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_contextvars.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/_decimal.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/modules/xxlimited.cpython-311.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libcrypto1.1.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libSDL2_mixer.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libSDL2_ttf.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libSDL2.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libfreetype.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libSDL2_image.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libsqlite3.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libpng16.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libpython3.11.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libffi.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libmain.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/armeabi-v7a/libssl1.1.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libcrypto1.1.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libSDL2_mixer.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libSDL2_ttf.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libSDL2.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libfreetype.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libSDL2_image.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libsqlite3.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libpng16.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libpython3.11.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libffi.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libmain.so
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/libs/arm64-v8a/libssl1.1.so
-[INFO]:    Stripping libraries in private dir
-[INFO]:    Frying eggs in /github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/_python_bundle__armeabi-v7a/_python_bundle/site-packages
-[INFO]:    <- directory context /github/workspace/.buildozer/android/platform/python-for-android
-[INFO]:    Copying in SDL2 .java files from: /github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/android-project/app/src/main/java/org/libsdl/app
-[INFO]:    -> directory context /github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts
-[INFO]:    Saving distribution info
-[INFO]:    <- directory context /github/workspace/.buildozer/android/platform/python-for-android
-[INFO]:    # Your distribution was created successfully, exiting.
-[INFO]:    Dist can be found at (for now) /github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts
-# Build the application #1
-# Copy application source from /github/workspace
-# Create directory /github/workspace/.buildozer/android/app
-# Copy /github/workspace/keaniaone-regular.ttf
-# Copy /github/workspace/custom_widgets.py
-# Copy /github/workspace/home.py
-# Copy /github/workspace/signup.py
-# Copy /github/workspace/styles.py
-# Copy /github/workspace/history.py
-# Copy /github/workspace/main.py
-# Copy /github/workspace/login.py
-# Copy /github/workspace/number.kv
-# Copy /github/workspace/mydatabase.py
-# Create directory /github/workspace/.buildozer/android/app/images
-# Copy /github/workspace/images/dice.png
-# Copy /github/workspace/images/history.png
-# Copy /github/workspace/images/back.png
-# Package the application
-# project.properties updated
-# Run ['/bin/python3', '-m', 'pythonforandroid.toolchain', 'apk', '--bootstrap', 'sdl2', '--dist_name', 'datefacts', '--name', 'Date Facts', '--version', '0.1', '--package', 'org.test.datefacts', '--minsdk', '21', '--ndk-api', '21', '--private', '/github/workspace/.buildozer/android/app', '--permission', 'android.permission.INTERNET', '--permission', 'android.permission.WRITE_EXTERNAL_STORAGE', '--permission', 'android.permission.READ_EXTERNAL_STORAGE', '--permission', 'android.permission.ACCESS_NETWORK_STATE', '--permission', 'android.permission.ACCESS_WIFI_STATE', '--android-entrypoint', 'org.kivy.android.PythonActivity', '--android-apptheme', '@android:style/Theme.NoTitleBar', '--presplash', '/github/workspace/./images/dice.png', '--icon', '/github/workspace/./images/dice.png', '--orientation', 'portrait', '--window', '--enable-androidx', '--copy-libs', '--arch', 'arm64-v8a', '--arch', 'armeabi-v7a', '--color=always', '--storage-dir=/github/workspace/.buildozer/android/platform/build-arm64-v8a_a
-# Cwd /github/workspace/.buildozer/android/platform/python-for-android
-Warning: : prerequisites.py is experimental and does not support all prerequisites yet.
-Warning: : Please report any issues to the python-for-android issue tracker.
-Warning: : prerequisites.py is experimental and does not support all prerequisites yet.
-Warning: : Please report any issues to the python-for-android issue tracker.
-[INFO]:    Will compile for the following archs: arm64-v8a, armeabi-v7a
-[INFO]:    Found Android API target in $ANDROIDAPI: 31
-[INFO]:    Available Android APIs are (31)
-[INFO]:    Requested API target 31 is available, continuing.
-[INFO]:    Found NDK dir in $ANDROIDNDK: /github/workspace/./.buildozer_global/android/platform/android-ndk-r25b
-[INFO]:    Found NDK version 25b
-[INFO]:    Getting NDK API version (i.e. minimum supported API) from user argument
-[DEBUG]:   All possible dists: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[DEBUG]:   Dist matching name and arch: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[DEBUG]:   Dist matching ndk_api and recipe: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[INFO]:    Of the existing distributions, the following meet the given requirements:
-[INFO]:    	datefacts: min API 21, includes recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi), built for archs (arm64-v8a, armeabi-v7a)
-[INFO]:    datefacts has compatible recipes, using this one
-[DEBUG]:   All possible dists: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[DEBUG]:   Dist matching name and arch: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[DEBUG]:   Dist matching ndk_api and recipe: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[INFO]:    Of the existing distributions, the following meet the given requirements:
-[INFO]:    	datefacts: min API 21, includes recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi), built for archs (arm64-v8a, armeabi-v7a)
-[INFO]:    datefacts has compatible recipes, using this one
-[INFO]:    -> directory context /github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2
-[INFO]:    <- directory context /github/workspace/.buildozer/android/platform/python-for-android
-[INFO]:    -> directory context /github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts
-[DEBUG]:   Remove directory and subdirectory src/main/assets
-[DEBUG]:   Create directory src/main/assets
-No setup.py/pyproject.toml used, copying full private data into .apk.
-Compiling '/github/workspace/.buildozer/android/app/custom_widgets.py'...
-Compiling '/github/workspace/.buildozer/android/app/home.py'...
-Compiling '/github/workspace/.buildozer/android/app/signup.py'...
-Compiling '/github/workspace/.buildozer/android/app/sitecustomize.py'...
-Compiling '/github/workspace/.buildozer/android/app/styles.py'...
-Compiling '/github/workspace/.buildozer/android/app/history.py'...
-Compiling '/github/workspace/.buildozer/android/app/main.py'...
-Compiling '/github/workspace/.buildozer/android/app/login.py'...
-Compiling '/github/workspace/.buildozer/android/app/mydatabase.py'...
-[DEBUG]:   Remove directory and subdirectory /tmp/p4a-extra-env-x1eg6rp4
-Applying Java source code patches...
-Applying patch: src/patches/SDLActivity.java.patch
-[INFO]:    Detected highest available build tools version to be 36.0.0
-stty: 'standard input': Inappropriate ioctl for device
-[DEBUG]:   -> running gradlew clean assembleDebug
-[DEBUG]:   	Downloading https://services.gradle.org/distributions/gradle-8.0.2-all.zip
-[DEBUG]:   	..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-[DEBUG]:   	Unzipping /home/user/.gradle/wrapper/dists/gradle-8.0.2-all/14bt34ptcsg1ikmfn78tdh1keu/gradle-8.0.2-all.zip to /home/user/.gradle/wrapper/dists/gradle-8.0.2-all/14bt34ptcsg1ikmfn78tdh1keu
-[DEBUG]:   	Set executable permissions for: /home/user/.gradle/wrapper/dists/gradle-8.0.2-all/14bt34ptcsg1ikmfn78tdh1keu/gradle-8.0.2/bin/gradle
-[DEBUG]:   	
-[DEBUG]:   	Welcome to Gradle 8.0.2!
-[DEBUG]:   	
-[DEBUG]:   	Here are the highlights of this release:
-[DEBUG]:   	 - Improvements to the Kotlin DSL
-[DEBUG]:   	 - Fine-grained parallelism from the first build with configuration cache
-[DEBUG]:   	 - Configurable Gradle user home cache cleanup
-[DEBUG]:   	
-[DEBUG]:   	For more details see https://docs.gradle.org/8.0.2/release-notes.html
-[DEBUG]:   	
-[DEBUG]:   	Starting a Gradle Daemon (subsequent builds will be faster)
-[DEBUG]:   	> Task :clean UP-TO-DATE
-[DEBUG]:   	> Task :preBuild UP-TO-DATE
-[DEBUG]:   	> Task :preDebugBuild UP-TO-DATE
-[DEBUG]:   	> Task :mergeDebugNativeDebugMetadata NO-SOURCE
-[DEBUG]:   	> Task :javaPreCompileDebug
-[DEBUG]:   	> Task :checkDebugAarMetadata
-[DEBUG]:   	> Task :generateDebugResValues
-[DEBUG]:   	> Task :mapDebugSourceSetPaths
-[DEBUG]:   	> Task :generateDebugResources
-[DEBUG]:   	> Task :packageDebugResources
-[DEBUG]:   	> Task :mergeDebugResources
-[DEBUG]:   	> Task :createDebugCompatibleScreenManifests
-[DEBUG]:   	> Task :extractDeepLinksDebug
-[DEBUG]:   	> Task :parseDebugLocalResources
-[DEBUG]:   	
-[DEBUG]:   	> Task :processDebugMainManifest
-[DEBUG]:   	/github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/src/main/AndroidManifest.xml:63:18-50 Warning:
-[DEBUG]:   		android:extractNativeLibs should not be specified in this source AndroidManifest.xml file. See https://d.android.com/guide/topics/manifest/application-element#extractNativeLibs for more information.
-[DEBUG]:   	The AGP Upgrade Assistant can remove the attribute from the AndroidManifest.xml file and update the build file accordingly. See https://d.android.com/studio/build/agp-upgrade-assistant for more information.
-[DEBUG]:   	
-[DEBUG]:   	> Task :processDebugManifest
-[DEBUG]:   	> Task :mergeDebugShaders
-[DEBUG]:   	> Task :compileDebugShaders NO-SOURCE
-[DEBUG]:   	> Task :generateDebugAssets UP-TO-DATE
-[DEBUG]:   	> Task :mergeDebugAssets
-[DEBUG]:   	> Task :processDebugJavaRes NO-SOURCE
-[DEBUG]:   	> Task :compressDebugAssets
-[DEBUG]:   	> Task :checkDebugDuplicateClasses
-[DEBUG]:   	> Task :processDebugManifestForPackage
-[DEBUG]:   	> Task :mergeDebugJavaResource
-[DEBUG]:   	> Task :processDebugResources
-[DEBUG]:   	> Task :desugarDebugFileDependencies
-[DEBUG]:   	
-[DEBUG]:   	> Task :compileDebugJavaWithJavac
-[DEBUG]:   	Note: Some input files use or override a deprecated API.
-[DEBUG]:   	Note: Recompile with -Xlint:deprecation for details.
-[DEBUG]:   	
-[DEBUG]:   	> Task :mergeExtDexDebug
-[DEBUG]:   	> Task :mergeLibDexDebug
-[DEBUG]:   	> Task :dexBuilderDebug
-[DEBUG]:   	> Task :mergeProjectDexDebug
-[DEBUG]:   	> Task :mergeDebugJniLibFolders
-[DEBUG]:   	> Task :mergeDebugNativeLibs
-[DEBUG]:   	> Task :validateSigningDebug
-[DEBUG]:   	> Task :writeDebugAppMetadata
-[DEBUG]:   	> Task :writeDebugSigningConfigVersions
-[DEBUG]:   	> Task :stripDebugDebugSymbols
-[DEBUG]:   	> Task :packageDebug
-[DEBUG]:   	> Task :createDebugApkListingFileRedirect
-[DEBUG]:   	> Task :assembleDebug
-[DEBUG]:   	
-[DEBUG]:   	Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
-[DEBUG]:   	
-[DEBUG]:   	You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
-[DEBUG]:   	
-[DEBUG]:   	See https://docs.gradle.org/8.0.2/userguide/command_line_interface.html#sec:command_line_warnings
-[DEBUG]:   	
-[DEBUG]:   	BUILD SUCCESSFUL in 1m 9s
-[DEBUG]:   	33 actionable tasks: 32 executed, 1 up-to-date
-[INFO]:    <- directory context /github/workspace/.buildozer/android/platform/python-for-android
-[DEBUG]:   All possible dists: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[DEBUG]:   Dist matching name and arch: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[DEBUG]:   Dist matching ndk_api and recipe: [<Distribution: name datefacts with recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi)>]
-[INFO]:    Of the existing distributions, the following meet the given requirements:
-[INFO]:    	datefacts: min API 21, includes recipes (freetype, hostpython3, jpeg, libffi, openssl, png, sdl2_image, sdl2_mixer, sdl2_ttf, sqlite3, python3, sdl2, setuptools, pillow, pycparser, pyopenssl, six, cffi, pyjnius, android, bcrypt, kivy, httplib2, idna, urllib3, requests, chardet, certifi), built for archs (arm64-v8a, armeabi-v7a)
-[INFO]:    datefacts has compatible recipes, using this one
-[INFO]:    # Copying android package to current directory
-[INFO]:    # Android package filename not found in build output. Guessing...
-[INFO]:    # Found android package file: /github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/build/outputs/apk/debug/datefacts-debug.apk
-[INFO]:    # Add version number to android package
-[INFO]:    # Android package renamed to datefacts-debug-0.1.apk
-stty: 'standard input': Inappropriate ioctl for device
-[DEBUG]:   -> running cp /github/workspace/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/dists/datefacts/build/outputs/apk/debug/datefacts-debug.apk datefacts-debug-0.1.apk
-# Android packaging done!
-# APK datefacts-0.1-arm64-v8a_armeabi-v7a-debug.apk available in the bin directory
-# Unknown command 2
-Traceback (most recent call last):
-  File "/action/entrypoint.py", line 167, in <module>
-    main()
-  File "/action/entrypoint.py", line 27, in main
-    run_command(env["INPUT_COMMAND"])
-  File "/action/entrypoint.py", line 135, in run_command
-    retcode = subprocess.check_call(command, shell=True)
-  File "/usr/lib/python3.10/subprocess.py", line 369, in check_call
-    raise CalledProcessError(retcode, cmd)
-subprocess.CalledProcessError: Command 'buildozer -v android debug --log-level 2' returned non-zero exit status 1.
+name: "Build APK"
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Cache Buildozer global directory
+        uses: actions/cache@v4
+        with:
+          path: .buildozer_global
+          key: buildozer-global-${{ hashFiles('buildozer.spec') }}
+
+      - name: Cache Buildozer build directory
+        uses: actions/cache@v4
+        with:
+          path: .buildozer
+          key: ${{ runner.os }}-${{ github.sha }}-${{ hashFiles('buildozer.spec') }}
+
+      - name: Build with Buildozer
+        uses: ArtemSBulgakov/buildozer-action@v1
+        id: buildozer
+        env:
+          # Set JAVA_HOME to the JDK path that exists inside the action's Docker image
+          JAVA_HOME: /usr/lib/jvm/java-17-openjdk-amd64
+          APP_ANDROID_ACCEPT_SDK_LICENSE: "1"
+        with:
+          command: buildozer -v android debug --log-level 2
+          buildozer_version: stable
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: datefacts-apk
+          path: ${{ steps.buildozer.outputs.filename }}
